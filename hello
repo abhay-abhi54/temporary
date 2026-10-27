@@ -1,1 +1,158 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forest Conservation</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f7f0;
+            color: #243b24;
+        }
+
+```
+    header {
+        background-color: #14532d;
+        color: white;
+        text-align: center;
+        padding: 30px 15px;
+    }
+
+    nav {
+        background-color: #166534;
+        text-align: center;
+        padding: 15px;
+    }
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin: 15px;
+        font-weight: bold;
+    }
+
+    .hero {
+        background: linear-gradient(135deg, #dcfce7, #bbf7d0);
+        text-align: center;
+        padding: 60px 20px;
+    }
+
+    .hero h2 {
+        font-size: 36px;
+        color: #14532d;
+    }
+
+    .hero p {
+        font-size: 18px;
+        line-height: 1.6;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: auto;
+        padding: 25px;
+    }
+
+    .card {
+        background: white;
+        margin: 20px 0;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px #cccccc;
+    }
+
+    .card h2 {
+        color: #166534;
+    }
+
+    footer {
+        background-color: #14532d;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+</style>
+```
+
+</head>
+<body>
+
+```
+<header>
+    <h1>🌳 Forest Conservation</h1>
+    <p>Protect Nature Today for a Greener Tomorrow</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#forests">Save Forests</a>
+    <a href="#wildlife">Wildlife</a>
+    <a href="#sustainability">Sustainability</a>
+</nav>
+
+<section class="hero" id="home">
+    <h2>Our Forests, Our Future</h2>
+    <p>
+        Forests provide oxygen, protect wildlife, regulate the climate,
+        and support life on Earth. Let us work together to protect them.
+    </p>
+    <h3>🌱 Plant Trees • Protect Wildlife • Save Our Planet 🌍</h3>
+</section>
+
+<main class="container">
+
+    <section class="card" id="forests">
+        <h2>🌲 Save Our Forests</h2>
+        <p>
+            Forests absorb carbon dioxide, help maintain rainfall,
+            protect soil, and support millions of living organisms.
+            Planting trees and preventing unnecessary tree cutting
+            are important steps toward forest conservation.
+        </p>
+    </section>
+
+    <section class="card" id="wildlife">
+        <h2>🐅 Protect Wildlife</h2>
+        <p>
+            Forests are natural homes for tigers, elephants, birds,
+            and countless other species. Protecting forest habitats
+            helps prevent species extinction and preserves biodiversity.
+        </p>
+    </section>
+
+    <section class="card">
+        <h2>🪓 Prevent Deforestation</h2>
+        <p>
+            Deforestation destroys habitats and contributes to climate
+            change. We can help by reducing paper waste, recycling,
+            supporting responsible forestry, and spreading awareness.
+        </p>
+    </section>
+
+    <section class="card" id="sustainability">
+        <h2>🌍 Environmental Sustainability</h2>
+        <p>
+            Sustainable living means using natural resources responsibly.
+            Save water, reduce plastic waste, plant native trees,
+            conserve energy, and encourage others to protect nature.
+        </p>
+    </section>
+
+</main>
+
+<footer>
+    <p>© 2026 Forest Conservation Awareness Project</p>
+    <p>Every Tree Matters. Every Action Counts.</p>
+</footer>
+```
+
+</body>
+</html>
 
